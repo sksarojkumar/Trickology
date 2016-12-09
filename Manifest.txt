@@ -1,0 +1,15 @@
+main-class: appusers
+Class-Path: lib/ojdbc14.jar lib/ojdbc14_g.jar
+
+
+
+
+
+
+
+
+
+
+
+
+
