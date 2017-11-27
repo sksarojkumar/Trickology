@@ -75,15 +75,15 @@ java appserver
 ```
 Then double click on *Trickology.exe*  
 Registration:  
-![Registration](https://github.com/sksarojkumar/Trickology/tree/master/pics/md/screenshort1.png)  
+![](https://github.com/sksarojkumar/Trickology/blob/master/pics/md/Screenshot%201.png)  
 Login:  
-![Login](https://github.com/sksarojkumar/Trickology/tree/master/pics/md/screenshort2.png)  
+![](https://github.com/sksarojkumar/Trickology/blob/master/pics/md/Screenshot%202.png)  
 Instructions:  
-![Instructions](https://github.com/sksarojkumar/Trickology/tree/master/pics/md/screenshort3.png)  
+![](https://github.com/sksarojkumar/Trickology/blob/master/pics/md/Screenshot%202.png)  
 Landing page:  
-![MCQ page](https://github.com/sksarojkumar/Trickology/tree/master/pics/md/screenshort4.png)  
+![](https://github.com/sksarojkumar/Trickology/blob/master/pics/md/Screenshot4.png)  
 Result:  
-![Result](https://github.com/sksarojkumar/Trickology/tree/master/pics/md/screenshort5.png)  
+![](https://github.com/sksarojkumar/Trickology/blob/master/pics/md/Screenshot5.png)  
 # Built With:  
 * Swing and AWT Framework
 * Thread
