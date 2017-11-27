@@ -65,7 +65,7 @@ class instruct extends JFrame implements ActionListener , MouseListener
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		//setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
 		setAlwaysOnTop(true);
-		//pack();
+		pack();
 		setVisible(true);
 	}
 	
