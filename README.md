@@ -79,7 +79,7 @@ Registration:
 Login:  
 ![](https://github.com/sksarojkumar/Trickology/blob/master/pics/md/Screenshot%202.png)  
 Instructions:  
-![](https://github.com/sksarojkumar/Trickology/blob/master/pics/md/Screenshot%202.png)  
+![](https://github.com/sksarojkumar/Trickology/blob/master/pics/md/Screenshot3.png)  
 Landing page:  
 ![](https://github.com/sksarojkumar/Trickology/blob/master/pics/md/Screenshot4.png)  
 Result:  
